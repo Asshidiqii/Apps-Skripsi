@@ -1,2 +1,2 @@
-![Blue and White Modern 6 6 Sale Promotion Instagram Post (5)](https://github.com/user-attachments/assets/79f6a925-3053-4a27-b6e1-fca283ff46f9)
-![Blue and White Modern 6 6 Sale Promotion Instagram Post (6)](https://github.com/user-attachments/assets/b2794c08-3d65-46db-8bce-b53c05a4540b)
+![Blue and White Modern 6 6 Sale Promotion Instagram Post (8)](https://github.com/user-attachments/assets/7516f2ee-f42a-4294-b40f-165c3341a6ca)
+![Blue and White Modern 6 6 Sale Promotion Instagram Post (7)](https://github.com/user-attachments/assets/ece63440-ec14-47b9-8ec7-53d7b4bab759)
