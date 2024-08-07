@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Certainty Factor</string>
+    <string name="daftar_penyakit">Daftar Penyakit</string>
+    <string name="daftar_gejala">Daftar Gejala</string>
+    <string name="gejala">gejala</string>
+    <string name="todo">TODO</string>
+    <string name="diagnosa">Diagnosa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="informasi">INFORMASI</string>
+    <string name="informasian">
+            Tingkat Kepastian:\n
+        1   = Sangat Yakin\n
+        0,8 = Yakin\n
+        0,6 = Cukup Yakin\n
+        0,4 = Sedikit Yakin\n
+        0,2 = Tidak Tahu\n
+        0   = Tidak\n
+
+       Dengan adanya Aplikasi ini,orang dapat untuk mengetahui depresi yang di derita bedasarkan gejala
+        yang di alaminya tanpa harus terkendala jarak waktu karena dapat dilakukan kapanpun dan dimanapun.
+        Ini Adalah Aplikasi yang dibuat langsung oleh Muhammad Asshidiqie dari Universitas Pamulang
+    </string>
+    <string name="perido">Baby Blues</string>
+    <string name="periodontitis">
+        Baby blues syndrome adalah gangguan kesehatan mental yang dialami wanita pasca melahirkan.
+        Gangguan ini ditandai dengan munculnya perubahan suasana hati. Untuk mengatasi Baby Blues Syndrome
+        yang ringan, penting untuk mendapatkan dukungan sosial, istirahat yang cukup, perawatan diri,
+        komunikasi terbuka, dan meminta bantuan profesional jika gejala tidak membaik.
+    </string>
+    <string name="ging">Post Partum Major Depression</string>
+    <string name="gingi">
+        Postpartum Major Depression adalah depresi serius yang dialami oleh ibu setelah melahirkan.
+        Untuk mengatasinya, cari bantuan medis segera, seperti terapi obat dan terapi bicara.
+        Dukungan sosial, istirahat yang cukup, pola makan sehat, dan aktivitas fisik juga penting dalam pemulihan.
+    </string>
+    <string name="abs">Postpartum Psychosis</string>
+    <string name="abse">
+        Postpartum Psychosis Depression adalah kondisi depresi parah dan langka yang terjadi setelah melahirkan.
+        Penting untuk mencari bantuan medis darurat segera. Rawat inap, terapi obat, dan dukungan keluarga
+        diperlukan dalam pemulihan.
+    </string>
+    <string name="gej1">
+        Hilang Nafsu Makan \nKurang Berenergi \nKurang Minat / Kemauan \nSulit Tidur
+        \nMerasa Bersalah \nMerasa Sedih \nMudah Tersinggung \nMerasa Berdosa \nTidak Mau Menyentuh Anak
+    </string>
+    <string name="gej2">
+        Hilang Nafsu Makan \nKurang Berenergi \nKurang Minat / Kemauan \nSulit Tidur \nMerasa Bersalah
+        \nMudah Tersinggung \nMerasa Berdosa \nTidak Mau Menyentuh Anak \nHidup Tidak Berguna
+    </string>
+    <string name="gej3">
+        Hilang Nafsu Makan \nKurang Berenergi \nKurang Minat / Kemauan \nSulit Tidur
+        \nMerasa Bersalah \nMudah Tersinggung \nMerasa Berdosa \nIngin Mati \nHidup Tidak Berguna
+    </string>
+    <string name="nilai">Masukan Nilai Kepercayaan</string>
+    <string name="gejala_1">Hilang Nafsu Makan</string>
+    <string name="gejala_2">Kurang Berenergi</string>
+    <string name="gejala_3">Kurang Minat dan kemauan</string>
+    <string name="gejala_4">Sulit Tidur</string>
+    <string name="gejala_5">Merasa Bersalah</string>
+    <string name="gejala_6">Merasa Sedih</string>
+    <string name="gejala_7">Mudah Tersinggung</string>
+    <string name="gejala_8">Merasa Berdosa</string>
+    <string name="gejala_9">Tidak Mau Menyentuh Anak</string>
+    <string name="gejala_10">Ingin Mati</string>
+    <string name="gejala_11">Hidup Tidak Berguna</string>
+    <string name="hasil">HASIL</string>
+    <string name="deteksi">DETEKSI</string>
+
+
+</resources>

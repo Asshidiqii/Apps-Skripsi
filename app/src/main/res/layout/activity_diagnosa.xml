@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_stethoscope"
+            android:contentDescription="@string/todo" />
+
+        <CheckBox
+            android:id="@+id/chk1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_1" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_2" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai"/>
+
+        <CheckBox
+            android:id="@+id/chk3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_3" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_4" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_5" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_6" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_7" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_8" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_9" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_10" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <CheckBox
+            android:id="@+id/chk11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gejala_11" />
+
+        <AutoCompleteTextView
+            android:id="@+id/tx11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai" />
+
+        <Button
+            android:id="@+id/btnProses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/deteksi" />
+
+         <TextView
+            android:id="@+id/txHasil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hasil"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+</ScrollView>
